@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dinoclienttwo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dinoclienttwo_jar</output-path>
+    <root id="archive" name="dinoclienttwo.jar">
+      <element id="module-output" name="dinoclienttwo" />
+    </root>
+  </artifact>
+</component>
