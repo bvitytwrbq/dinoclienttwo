@@ -28,7 +28,6 @@ public class Connection implements AutoCloseable {
 
     @Override
     public void close() throws Exception {
-        // закрытие ресурсов
         out.close();
         in.close();
     }
